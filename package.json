@@ -46,7 +46,7 @@
     "react-transition-group": "^4.0.1",
     "recompose": "^0.30.0",
     "svg-morpheus": "^0.3.0",
-    "three": "^0.104.0",
+    "three": "^0.125.0",
     "three-gltf-loader": "^1.104.0",
     "three-orbit-controls": "^82.1.0",
     "three.fbo-helper": "^1.1.1"
