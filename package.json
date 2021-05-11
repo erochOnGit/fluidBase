@@ -36,7 +36,7 @@
   "dependencies": {
     "dat.gui": "^0.7.6",
     "json-loader": "^0.5.7",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "perlin-simplex": "0.0.3",
     "react": "^16.8.4",
     "react-addons-css-transition-group": "^15.6.2",
